@@ -1,6 +1,8 @@
 # World Wumpus Problem Solver
 
 This repository contains implementations of reinforcement learning algorithms to solve the classic World Wumpus problem. The World Wumpus problem involves navigating a grid-based environment where an agent must find gold while avoiding hazards such as pits and the Wumpus creature.
+![image](https://github.com/user-attachments/assets/9f897c50-dc29-484a-ba6d-a277a60d7a98)
+
 
 ## Problem Overview
 The agent operates in a 4x4 grid environment where each cell can be empty, contain a pit, the Wumpus creature, or gold. The agent can move up, down, left, or right and can shoot an arrow in one of these directions to eliminate the Wumpus threat (optional action).
